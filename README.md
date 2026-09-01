@@ -162,23 +162,9 @@ Applies speech keyword detection to unknown or unsaved numbers only, identifying
 
 ## 🔐 Privacy-First Architecture
 
-Privacy is a core design principle, not an afterthought:
+Architectural Image:
+<img width="1024" height="570" alt="image" src="https://github.com/user-attachments/assets/4cf40d0e-8c88-4f73-81bf-c3acfe6d0eb8" />
 
-- Only incoming calls from **unknown or unsaved** numbers are analyzed
-- **Saved contacts are never monitored**
-- Analysis happens **completely on-device**
-- **Conversations are never stored or uploaded**
-
-```mermaid
-flowchart TD
-    U[Unknown Call] --> D[On-Device Analysis]
-    D --> T[Threat Detection]
-    T --> A[User Alert]
-
-    S[Saved Contacts] -.-> N[Not Monitored]
-```
-
----
 
 ## 🔎 Explainable AI
 
@@ -209,19 +195,9 @@ The prototype demonstrates the end-to-end SENTINEL ONE workflow across the follo
 
 <div align="center">
 
-| Dashboard | Email Analysis | SMS Analysis |
-|---|---|---|
-| `<img width="711" height="312" alt="image" src="https://github.com/user-attachments/assets/c1be0fc3-cdde-4793-b90a-89863449e325" />
-` | `<img width="620" height="434" alt="image" src="https://github.com/user-attachments/assets/e37083ee-4c04-4997-93b9-518a6185daf5" />
-` | `<img width="343" height="388" alt="image" src="https://github.com/user-attachments/assets/54d1df7b-fd27-431c-9ca7-52db6d660b4b" />
-` |
+**Dashboard Image:**
+<img width="1422" height="624" alt="image" src="https://github.com/user-attachments/assets/1f47057e-5392-4f43-8efa-79e00e9f8d23" />
 
-| QR Verification | Website Verification | Call Detection |
-|---|---|---|
-| `<img width="437" height="347" alt="image" src="https://github.com/user-attachments/assets/bdbd1b41-a2b7-4d36-9121-d6ecf1d126ac" />
-` | `<img width="415" height="275" alt="image" src="https://github.com/user-attachments/assets/58613e17-b5b2-490f-88ed-5dadc963d66f" />
-` | `<img width="856" height="735" alt="image" src="https://github.com/user-attachments/assets/e772cd86-5780-4fb1-ad5b-9856f7824ac0" />
-` |
 
 </div>
 
