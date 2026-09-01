@@ -324,7 +324,7 @@ At the current stage, SENTINEL ONE is presented as a prototype/concept implement
 
 ## 🎥 Demo
 
-> Demo link coming soon.
+> [Demo link coming soon](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX).
 
 ---
 
@@ -333,7 +333,7 @@ At the current stage, SENTINEL ONE is presented as a prototype/concept implement
 - Project Summary — `YOUR_DOCUMENTATION_LINK`
 - Presentation — `YOUR_DOCUMENTATION_LINK`
 - Architecture — `YOUR_DOCUMENTATION_LINK`
-- Demo — `YOUR_DEMO_LINK`
+- Demo — `[YOUR_DEMO_LINK]([https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX))`
 
 ---
 
@@ -355,9 +355,9 @@ At the current stage, SENTINEL ONE is presented as a prototype/concept implement
 
 | Member | Role |
 |---|---|
-| Harshini R | Team Member |
+| Arundhathi R | Team Leader |
 | Abinaya S | Team Member |
-| Arundhathi R | Team Member |
+| Harshini R | Team Member |
 | N Anuja | Team Member |
 | Dhaarani R | Team Member |
 
@@ -371,7 +371,7 @@ SENTINEL ONE is a hackathon/project prototype focused on demonstrating a proacti
 
 ## 📄 License
 
-License: To be determined.
+License: MIT License.
 
 ---
 
