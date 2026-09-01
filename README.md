@@ -195,7 +195,7 @@ The prototype demonstrates the end-to-end SENTINEL ONE workflow across the follo
 
 <div align="center">
 
-**Dashboard Image:**
+| **Dashboard Image:** |
 <img width="1422" height="624" alt="image" src="https://github.com/user-attachments/assets/1f47057e-5392-4f43-8efa-79e00e9f8d23" />
 
 
