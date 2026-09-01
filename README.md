@@ -195,8 +195,30 @@ The prototype demonstrates the end-to-end SENTINEL ONE workflow across the follo
 
 <div align="center">
 
-| **Dashboard Image:** |
+**Dashboard Image:**
+
 <img width="1422" height="624" alt="image" src="https://github.com/user-attachments/assets/1f47057e-5392-4f43-8efa-79e00e9f8d23" />
+
+**Email Analysis**
+
+<img width="1239" height="867" alt="image" src="https://github.com/user-attachments/assets/fba79a2b-6988-4a8d-87e9-3017f068ea57" />
+
+**SMS Analysis**
+
+<img width="685" height="775" alt="image" src="https://github.com/user-attachments/assets/cd7c39fe-861e-49b8-8982-99f4423ee82b" />
+
+**QR verification**
+
+<img width="874" height="694" alt="image" src="https://github.com/user-attachments/assets/6a79919f-6aaa-4158-84a5-63319219e38d" />
+
+**Website verification**
+
+<img width="829" height="550" alt="image" src="https://github.com/user-attachments/assets/ffcdf2a4-8d4e-4016-8611-f8f238171af2" />
+
+**Call detection**
+
+<img width="766" height="922" alt="image" src="https://github.com/user-attachments/assets/d1b7b0e8-3cc4-42ea-aec7-97e44ac432b9" />
+
 
 
 </div>
