@@ -12,7 +12,7 @@ A privacy-first **Hybrid AI Detection Engine** that proactively identifies digit
 ![AI](https://img.shields.io/badge/Powered%20By-Hybrid%20AI-9cf)
 ![Privacy](https://img.shields.io/badge/Privacy-First-brightgreen)
 
-[🚀 Explore the Project](https://github.com/rarundhathi94-cloud/SENTINEL-ONE/tree/main) · [📖 Documentation](YOUR_DOCUMENTATION_LINK) · [🎥 Demo]([YOUR_DEMO_LINK](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX))
+[🚀 Explore the Project](https://github.com/rarundhathi94-cloud/SENTINEL-ONE/tree/main) · [📖 Documentation](YOUR_DOCUMENTATION_LINK) · [🎥 Demo](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX)
 
 </div>
 
