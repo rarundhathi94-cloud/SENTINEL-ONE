@@ -232,7 +232,7 @@ The prototype demonstrates the end-to-end SENTINEL ONE workflow across the follo
 
 <img width="861" height="862" alt="image" src="https://github.com/user-attachments/assets/260c4729-d9bb-48bc-9365-637baa5e63e4" />
 
-```
+
 
 ---
 
