@@ -12,7 +12,7 @@ A privacy-first **Hybrid AI Detection Engine** that proactively identifies digit
 ![AI](https://img.shields.io/badge/Powered%20By-Hybrid%20AI-9cf)
 ![Privacy](https://img.shields.io/badge/Privacy-First-brightgreen)
 
-[🚀 Explore the Project](YOUR_REPOSITORY_LINK) · [📖 Documentation](YOUR_DOCUMENTATION_LINK) · [🎥 Demo](YOUR_DEMO_LINK)
+[🚀 Explore the Project]([YOUR_REPOSITORY_LINK](https://github.com/rarundhathi94-cloud/SENTINEL-ONE/tree/main)) · [📖 Documentation](YOUR_DOCUMENTATION_LINK) · [🎥 Demo]([YOUR_DEMO_LINK](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX))
 
 </div>
 
@@ -28,7 +28,7 @@ A privacy-first **Hybrid AI Detection Engine** that proactively identifies digit
 | **Approach** | Hybrid AI Detection |
 | **Focus** | Proactive Digital Fraud Protection |
 | **Privacy Model** | Privacy-First / On-Device Analysis |
-| **Team** | Axion *(also referenced as "Cyber Sentinels" in project documentation)* |
+| **Team** | Axion |
 | **Members** | Harshini R, Abinaya S, Arundhathi R, N Anuja, Dhaarani R |
 | **Category** | Hackathon Project — Cybersecurity & AI |
 
@@ -211,11 +211,17 @@ The prototype demonstrates the end-to-end SENTINEL ONE workflow across the follo
 
 | Dashboard | Email Analysis | SMS Analysis |
 |---|---|---|
-| `assets/dashboard.png` | `assets/email-analysis.png` | `assets/sms-analysis.png` |
+| `<img width="711" height="312" alt="image" src="https://github.com/user-attachments/assets/c1be0fc3-cdde-4793-b90a-89863449e325" />
+` | `<img width="620" height="434" alt="image" src="https://github.com/user-attachments/assets/e37083ee-4c04-4997-93b9-518a6185daf5" />
+` | `<img width="343" height="388" alt="image" src="https://github.com/user-attachments/assets/54d1df7b-fd27-431c-9ca7-52db6d660b4b" />
+` |
 
 | QR Verification | Website Verification | Call Detection |
 |---|---|---|
-| `assets/qr-verification.png` | `assets/website-verification.png` | `assets/call-detection.png` |
+| `<img width="437" height="347" alt="image" src="https://github.com/user-attachments/assets/bdbd1b41-a2b7-4d36-9121-d6ecf1d126ac" />
+` | `<img width="415" height="275" alt="image" src="https://github.com/user-attachments/assets/58613e17-b5b2-490f-88ed-5dadc963d66f" />
+` | `<img width="856" height="735" alt="image" src="https://github.com/user-attachments/assets/e772cd86-5780-4fb1-ad5b-9856f7824ac0" />
+` |
 
 </div>
 
