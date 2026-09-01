@@ -12,7 +12,7 @@ A privacy-first **Hybrid AI Detection Engine** that proactively identifies digit
 ![AI](https://img.shields.io/badge/Powered%20By-Hybrid%20AI-9cf)
 ![Privacy](https://img.shields.io/badge/Privacy-First-brightgreen)
 
-[🚀 Explore the Project](https://github.com/rarundhathi94-cloud/SENTINEL-ONE/tree/main) · [📖 Documentation](YOUR_DOCUMENTATION_LINK) · [🎥 Demo](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX)
+[🚀 Explore the Project](https://github.com/rarundhathi94-cloud/SENTINEL-ONE/tree/main) · [📖 Documentation](https://docs.google.com/document/d/1e6LcaNX-gy6s8XLWgAzwA4u4ay7LjqMl/edit?usp=sharing&ouid=101044614412656915145&rtpof=true&sd=true) · [🎥 Demo](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX)
 
 </div>
 
@@ -163,7 +163,8 @@ Applies speech keyword detection to unknown or unsaved numbers only, identifying
 ## 🔐 Privacy-First Architecture
 
 Architectural Image:
-<img width="1024" height="570" alt="image" src="https://github.com/user-attachments/assets/4cf40d0e-8c88-4f73-81bf-c3acfe6d0eb8" />
+<img width="817" height="669" alt="image" src="https://github.com/user-attachments/assets/4e5c7ba1-48a6-449c-8c36-b86ebd7b28bd" />
+
 
 
 ## 🔎 Explainable AI
@@ -229,34 +230,8 @@ The prototype demonstrates the end-to-end SENTINEL ONE workflow across the follo
 
 ## 🏗️ System Architecture
 
-```mermaid
-flowchart TD
-    subgraph Input Channels
-        E[Email]
-        S[SMS]
-        C[Unknown Call]
-        Q[QR Code]
-        W[Website]
-    end
+<img width="861" height="862" alt="image" src="https://github.com/user-attachments/assets/260c4729-d9bb-48bc-9365-637baa5e63e4" />
 
-    E --> H[Hybrid AI Detection Engine]
-    S --> H
-    C --> H
-    Q --> H
-    W --> H
-
-    H --> TA[Threat Analysis]
-    TA --> IV[Identity Verification]
-    IV --> XAI[Explainable AI]
-    XAI --> SC{Security Classification}
-
-    SC --> SAFE[SAFE]
-    SC --> SUS[SUSPICIOUS]
-    SC --> FRAUD[FRAUD DETECTED]
-
-    SAFE --> UA[User Alert]
-    SUS --> UA
-    FRAUD --> UA
 ```
 
 ---
@@ -322,18 +297,9 @@ At the current stage, SENTINEL ONE is presented as a prototype/concept implement
 
 ## 🎥 Demo
 
-> [Demo link coming soon](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX).
+> [Demo Video](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX).
 
----
-
-## 📚 Documentation
-
-- Project Summary — `YOUR_DOCUMENTATION_LINK`
-- Presentation — `YOUR_DOCUMENTATION_LINK`
-- Architecture — `YOUR_DOCUMENTATION_LINK`
-- Demo — `[YOUR_DEMO_LINK]([https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX](https://youtu.be/5sdUdP-O720?si=cCmNKOvJC6WvrWLX))`
-
----
+--- 
 
 ## 🗺️ Roadmap
 
